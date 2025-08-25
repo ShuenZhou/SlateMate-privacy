@@ -1,7 +1,7 @@
 # Privacy Policy for SlateMate
 Effective date: 2025-08-25
 
-SlateMate is a macOS utility that adds slates to videos you select. It processes media entirely on your device. We do not collect, transmit, sell, or share any personal data.
+SlateMate is a macOS utility that adds professional slates to video clips. It processes media entirely on your device. We do not collect, transmit, sell, or share any personal data.
 
 ## Data We Do Not Collect
 - No personal information (name, email, address)
@@ -25,4 +25,4 @@ SlateMate is not directed to children. We do not knowingly collect data from chi
 We may update this policy from time to time. Material changes will be posted on this page.
 
 ## Contact
-Questions? Email: support@example.com
+Questions? Email: shuen.zhou@outlook.com
